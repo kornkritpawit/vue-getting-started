@@ -2,7 +2,7 @@
   "heroes": [
     {
       "id": 10,
-      "firstName": "Ella",
+      "firstName": "Ella sdfdf",
       "lastName": "Papa",
       "capeCounter": 1,
       "originDate": "1996-06-06",
@@ -11,7 +11,7 @@
     {
       "id": 20,
       "firstName": "Madelyn",
-      "lastName": "Papa",
+      "lastName": "Jones",
       "capeCounter": 3,
       "originDate": "08/01/1998",
       "description": "the cat whisperer"
